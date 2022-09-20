@@ -23,8 +23,6 @@ let dog3 = document.getElementById('dog3');
 let dog4 = document.getElementById('dog4');
 let dog5 = document.getElementById('dog5');
 let dog6 = document.getElementById('dog6');
-let dog7 = document.getElementById('dog7');
-let dog8 = document.getElementById('dog8');
 
 // Next we literally fetch from our API link
 
